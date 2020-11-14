@@ -1,7 +1,7 @@
 const fileSystem = require('fs');
 const colorNamer = require('color-namer');
 
-// Test Input
+// Input
 const inputFile = `./test-input/logo.svg`;
 
 // Helpers

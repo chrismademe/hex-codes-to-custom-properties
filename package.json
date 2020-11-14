@@ -1,0 +1,11 @@
+{
+  "name": "svg-colors-to-css",
+  "version": "0.1.0",
+  "description": "Extracts colours from SVG and and exports them as CSS Custom Properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Galbraith",
+  "license": "MIT"
+}
